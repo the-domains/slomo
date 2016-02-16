@@ -1,6 +1,6 @@
 name: SLOMO
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.23179
 typography_spectrum: 0.19935
 title: A Very Slow Moment
 cta:
@@ -22,8 +22,8 @@ color:
     - '#4c8666'
     - '#65b497'
     - '#9fcba8'
-  brandStrength: 0.3125
+  brandStrength: 0.5
   lightness: 0.0625
-  saturation: 0.9636134980246425
+  saturation: 0.75
   rhythmicContrast: 0.012867068406194448
 purpose: []
