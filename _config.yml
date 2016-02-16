@@ -1,0 +1,28 @@
+name: SLOMO
+favicon: null
+layout_spectrum: 0.20839995448477566
+typography_spectrum: 0.0657019258942455
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.39480103529058397
+  lightness: 0.027853092411532998
+  saturation: 0.9636134980246425
+  rhythmicContrast: 0.012867068406194448
+purpose: []
