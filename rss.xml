@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[A Very Slow Moment]]></title>
-        <description><![CDATA[A Very Slow Moment]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A Very Slow Mo]]></title>
+        <description><![CDATA[A Very Slow Mo]]></description>
+        <link>https://thegrid.ai/slomo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 15:06:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 15:42:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/slomo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[9 things you'll only understand if you've been on a cruise]]></title>
+            <description><![CDATA[<article><h1>9 things you'll only understand if you've been on a cruise</h1><p>Once you board your cruise, you're free to let your true self fly. Long-time cruisers are well aware of this, and have no problem dressing like neon robots for H2GLOW parties or making the most noise during a raucous round of Deal or No Deal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/48a4012cc2d979589c40ea19ba2195376437ead0.jpg"></article>]]></description>
+            <link>http://matadornetwork.com/notebook/9-things-youll-understand-youve-cruise/</link>
+            <guid isPermaLink="false">09330d4f-2b93-498a-b1f3-cd55a6b1d1eb</guid>
+            <pubDate>Tue, 16 Feb 2016 15:41:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Its perfectly okay to sleep all day when you are travelling]]></title>
             <description><![CDATA[<article><h1>Its perfectly okay to sleep all day when you are travelling</h1><p>Not a morning person? It’s okay. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/443d30c8a343e3b0440f4367f67262ad8d5512af.jpg"></article>]]></description>
-            <link>undefinedits-perfectly-okay-to-sleep-all-day-when-you-are-travelling/index.html</link>
+            <link>https://thegrid.ai/slomo/its-perfectly-okay-to-sleep-all-day-when-you-are-travelling/index.html</link>
             <guid isPermaLink="false">1b5e452c-a9d1-4b82-be90-c5c4c3c8410a</guid>
             <pubDate>Tue, 16 Feb 2016 15:05:16 GMT</pubDate>
         </item>
