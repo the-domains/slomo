@@ -1,29 +1,41 @@
-name: SLOMO
-favicon: null
-layout_spectrum: 0.23179
-typography_spectrum: 0.19935
 title: A Very Slow Mo
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.9229391
+  lightness: 0.6989247
+  brandStrength: 0.5071685
+  brandColors:
+    - '#F2ACAC'
+    - '#F4FBF3'
+    - '#030302'
+    - '#ACA287'
+    - '#656565'
+  rhythmicContrast: 0.01286707
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: SLOMO
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#21242b'
-    - '#e4e2e5'
-    - '#4c8666'
-    - '#65b497'
-    - '#9fcba8'
-  brandStrength: 0.5
-  lightness: 0.0625
-  saturation: 0.75
-  rhythmicContrast: 0.012867068406194448
-purpose: []
+typography_spectrum: 0.19935
+layout_spectrum: 0.23179
